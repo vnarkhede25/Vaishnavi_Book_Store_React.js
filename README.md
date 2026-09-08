@@ -254,3 +254,7 @@ The initial catalogue is inserted automatically by `DataInitializer.java` when t
 
 ### Cart
 <img width="926" height="467" alt="image" src="https://github.com/user-attachments/assets/dbf56e19-54d8-4a1e-b223-4deed27e78de" />
+
+### MYSQL Workbench
+<img width="530" height="218" alt="image" src="https://github.com/user-attachments/assets/f701f36f-0a74-41ca-8a64-c84d0bf92867" />
+<img width="481" height="233" alt="image" src="https://github.com/user-attachments/assets/7d86846c-a0cf-44b9-bf71-db1dd3648a05" />
