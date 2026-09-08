@@ -243,11 +243,14 @@ The initial catalogue is inserted automatically by `DataInitializer.java` when t
 ### Home Page
 <img width="882" height="461" alt="image" src="https://github.com/user-attachments/assets/ebc56981-5317-4d0c-82ae-d5728f489b00" />
 <img width="924" height="467" alt="image" src="https://github.com/user-attachments/assets/1172974a-5439-448b-bb74-5581c6eebeb0" />
+
 ### Registration & login page
 <img width="914" height="470" alt="image" src="https://github.com/user-attachments/assets/027299f3-b4e3-42a6-b704-272973d6e6a6" />
 <img width="925" height="461" alt="image" src="https://github.com/user-attachments/assets/4ad489ac-8b73-4d58-b412-171306d83bcd" />
+
 ### Catalogue Page
 <img width="844" height="466" alt="image" src="https://github.com/user-attachments/assets/3b97b375-abc2-45d3-b484-09220d5e61b3" />
 <img width="907" height="465" alt="image" src="https://github.com/user-attachments/assets/c3a00f0f-1747-4ce7-b4ca-3f5834b16a44" />
+
 ### Cart
 <img width="926" height="467" alt="image" src="https://github.com/user-attachments/assets/dbf56e19-54d8-4a1e-b223-4deed27e78de" />
